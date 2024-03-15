@@ -16,3 +16,8 @@ Dynamically updates the clock every second.
 Open the HTML file in a browser and witness the elegance of the Glassmorphic Clock.
 #Conclusion: Share the Elegance!
 You’ve just crafted a stunning Glassmorphic Clock! This combination of design and functionality not only enhances your web page but also showcases your creative prowess. Share the elegance with your audience and keep exploring the fascinating world of web development.
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+This project is open-source and is available under the MIT License. You are encouraged to use, modify, and distribute it in accordance with the terms of the license.
+
